@@ -14,25 +14,37 @@ end
 
 board = [" "," "," "," "," "," "," "," "," "]
 display_board(board)
+puts "End game\n\n"
 board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board)
+puts "End game\n\n"
 board = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
 display_board(board)
+puts "End game\n\n"
 board = ["O", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board)
+puts "End game\n\n"
 board = ["X", "X", "X", " ", " ", " ", " ", " ", " "]
 display_board(board)
+puts "End game\n\n"
 board = [" ", " ", " ", " ", " ", " ", "O", "O", "O"]
 display_board(board)
+puts "End game\n\n"
 board = ["X", " ", " ", " ", "X", " ", " ", " ", "X"]
 display_board(board)
+puts "End game\n\n"
 board = [" ", " ", "O", " ", "O", " ", "O", " ", " "]
 display_board(board)
+puts "End game\n\n"
 board = ["X", "X", "X", "X", "O", "O", "X", "O", "O"]
 display_board(board)
+puts "End game\n\n"
 board = ["X", "O", "X", "O", "X", "X", "O", "X", "O"]
 display_board(board)
+puts "End game\n\n"
 board = ["X", "X", "X", "X", "X", "X", "X", "X", "X"]
 display_board(board)
+puts "End game\n\n"
 board = ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
 display_board(board)
+puts "End game\n\n"
